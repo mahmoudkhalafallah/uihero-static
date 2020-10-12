@@ -1,0 +1,7 @@
+body#tinymce.wp-editor { 
+	font-family: Ubuntu;
+}
+
+body#tinymce.wp-editor h1, body#tinymce.wp-editor h2, body#tinymce.wp-editor h3, body#tinymce.wp-editor h4{
+	font-family: Oswald;
+}
